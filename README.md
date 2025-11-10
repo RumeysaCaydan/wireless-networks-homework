@@ -22,7 +22,6 @@ Bilgisayar tarafında ise `logger.py` dosyası bu verileri dinleyip `.csv` dosya
 
 ##  Gerekli Kütüphaneler
 ESP32 icin:
-```cpp
 #include <WiFi.h>
 #include <WebServer.h>
 
